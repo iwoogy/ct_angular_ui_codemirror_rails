@@ -1,0 +1,10 @@
+---
+module:
+  name: "'ui.codemirror"
+uis:
+  - name: ui.codemirror
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
